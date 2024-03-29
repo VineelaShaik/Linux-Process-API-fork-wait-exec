@@ -46,11 +46,12 @@ int main(void)
 	return 0; }
     ```
 
-##OUTPUT
+## OUTPUT:
 ![alt text](<Screenshot 2024-03-29 104210.png>)
 
 
 ## C Program to create new process using Linux API system calls fork() and exit()
+
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -77,11 +78,12 @@ int main() {
 ```
 
 
-##OUTPUT
+## OUTPUT:
 ![alt text](<Screenshot 2024-03-29 104307.png>)
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
+
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -112,7 +114,7 @@ int main() {
 }
 ```
 
-##OUTPUT
+## OUTPUT:
 ![alt text](<Screenshot 2024-03-29 104340.png>)
 
 
